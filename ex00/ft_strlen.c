@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strlen.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: shryuman <harushota0726@gmail.com>         +#+  +:+       +#+        */
+/*   By: shotaryuman <shotaryuman@student.42.fr>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/03/20 13:19:08 by shryuman          #+#    #+#             */
-/*   Updated: 2025/03/20 17:46:03 by shryuman         ###   ########.fr       */
+/*   Updated: 2025/03/23 02:48:15 by shotaryuman      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -21,6 +21,7 @@ int	ft_strlen(char *str)
 	}
 	return (i);
 }
+
 // #include <stdio.h>
 
 // int	main(void)
